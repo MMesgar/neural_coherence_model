@@ -1,4 +1,4 @@
-# Neural Local Coherene Model for Text Quality Assessment #
+# A Neural Local Coherene Model for Text Quality Assessment #
 
 A neural local coherence model based on semantic changes across sentences in a text. 
 
@@ -10,7 +10,7 @@ A neural local coherence model based on semantic changes across sentences in a t
 
 ### Data ###
 
-For the essay scoring data, we use the ASAP dataset to evaluate our system. This dataset (training_set_rel3.tsv) can be downloaded from [here](https://www.kaggle.com/c/asap-aes/data). After downloading the file, put it in the [data](https://github.com/nusnlp/nea/tree/master/data) directory and create training, development and test data using ```preprocess_asap.py``` script:
+For the essay scoring experiments, we use the ASAP dataset to evaluate our system. This dataset (training_set_rel3.tsv) can be downloaded from [here](https://www.kaggle.com/c/asap-aes/data). After downloading the file, put it in the [data](https://github.com/nusnlp/nea/tree/master/data) directory and create training, development and test data using ```preprocess_asap.py``` script:
 
 ```bash
 cd data
