@@ -7,6 +7,9 @@ A neural local coherence model based on semantic changes across sentences in a t
 * GCC 7.2.0
 * Python 2.7.14 
 * PyTorch 0.1.12_2
+* More info: spec-file.txt
+
+### Procedure ###
 * Prepare data
 * Run main_making.py
 
