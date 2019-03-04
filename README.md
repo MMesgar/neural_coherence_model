@@ -1,7 +1,7 @@
 # A Neural Local Coherence Model for Text Quality Assessment #
 
 A neural local coherence model based on semantic changes across sentences in a text. Your interest to this project is very appreciated. Please cite [this paper](https://aclanthology.info/papers/D18-1464/d18-1464.bib) if you use the above code. 
-Also don't forget to give it a Github star (on top right), if you like the project.
+Also don't forget to give it a Github star (on top right).
 
 
 ### Setup ###
